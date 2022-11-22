@@ -1,1 +1,20 @@
-# Data-Professional-Survey-Breakdown
+# Data Professional Survey Breakdown
+
+### TASK
+Analyze a survey on data professionals for look break into a data role and create Dashboard.
+
+### Tools
+- Power BI
+- MS Excel
+
+### Projects Dataset
+- From [Alex The Analyst](https://youtu.be/pixlHHe_lNQ)
+
+### Result of Analysis
+- Average salary is **$53.90K**
+- Favourite Programming language is **Python**
+- Most Preference is **Better Salary**
+- Highest Average salary is **$94** in a **Data Scientist** role
+
+### Dashboard
+![Data Professional Survey Breakdown](https://user-images.githubusercontent.com/79447479/203325111-295556b0-6161-497d-895f-ee7d28afe2eb.png)
